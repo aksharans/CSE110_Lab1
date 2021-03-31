@@ -3,13 +3,13 @@
 ## About Me  
 
 ### School  
-I am currently a 2nd year undergraduate studying Computer Engineering at UC San Diego.
+I am currently a 2nd year undergraduate studying Computer Engineering at UC San Diego, in Warren College.
 
-#### Classes I'm Taking Right Now  
+##### Classes I'm Taking Right Now  
 CSE 110, CSE 101, ECE 101  
 
 ### Personal 
-I am 19 years old.
+I am 19 years old and from the Bay Area. 
 
 ### Programmer  
 
@@ -35,7 +35,9 @@ Languages I've Worked With:
 [LinkedIn](https://www.linkedin.com/in/aksharan/) 
 
 
-[Hobbies](/Hobbies.txt)
+## More About Me
+[Hobbies](/Hobbies.md)
+
 
 
 
