@@ -30,6 +30,8 @@ Languages I've Worked With:
 - [ ] PHP
 - [ ] Scala
 
+![alt-image](/assets/prog-langs.jpeg)  
+
 ## Projects  
 
 You can find more about these on my Github, which is [here](https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#im-on).
@@ -53,6 +55,8 @@ Build an Arduino line-following robot.
 ## More About Me
 [Hobbies](/Hobbies.md)
 
+![alt-image](/assets/hobbies.jpeg)  
+
 Interests:
 1. Software
    - Web/Mobile App Development
@@ -63,6 +67,9 @@ Interests:
 3. Other
    - Space Exploration
    - Cognitive Science
+
+![alt-image](/assets/robot.jpeg)  
+![alt-image](/assets/space.jpeg)  
 
 ## Using this Repo
 ##### If you want to clone this repo for some reason...
