@@ -12,7 +12,7 @@ CSE 110, CSE 101, ECE 101
 ### Personal 
 I am 19 years old and from the Bay Area. 
 
-### Programmer  
+### Programming  
 
 Languages I've Worked With:  
 - [x] Python
