@@ -52,7 +52,7 @@ Build an Arduino line-following robot.
 Interests:
 1. Software
    - Web/Mobile App Development
-   -  a
+   - Exploring software advancements 
 2. Hardware
    - Robotics
    - Controllers/Processors
