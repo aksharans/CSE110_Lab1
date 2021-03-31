@@ -82,5 +82,9 @@ Click [here](https://github.com/aksharans/CSE110_Lab1/tree/user-page/assets) for
 ~~`rm -rf .git`~~
 
 
+## A Relevant Quote...
+>The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.
+
+-Vince Lombardi
 
 
