@@ -33,10 +33,10 @@ Languages I've Worked With:
 You can find more about these on my Github, which is [here](https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#im-on).
 
 **Twitter User Lookup & Trends**  
-Node webapp that utilizes Twitter API to display user information (including # of tweets/likes, mutual & nonmutual followers/ing, and more) as well as trends for any location.  
+Node webapp that displays user info, trends, followers using the Twitter API.
 
 **UCSD Course Planner**  
-A tool to research and plan courses and schedules in UCSD JSOE (Engineering majors), by scraping course data as well as major/degree requirements.
+A web scraper that displays course data in the JSOE.
 
 _ECE 5 Class Project_  
 Build an Arduino line-following robot.
