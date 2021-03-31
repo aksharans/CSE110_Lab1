@@ -30,7 +30,7 @@ Languages I've Worked With:
 - [ ] PHP
 - [ ] Scala
 
-![alt-image](/assets/prog-langs.jpeg)  
+![alt-image](/assets/prog_langs.jpeg)  
 
 ## Projects  
 
