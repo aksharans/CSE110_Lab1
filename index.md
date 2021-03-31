@@ -3,10 +3,11 @@
 ## About Me  
 
 ### School  
-I am currently a 2nd year undergraduate studying Computer Engineering at UC San Diego, in Warren College.
+I am currently a 2nd year undergraduate studying ***Computer Engineering at UC San Diego***, in Warren College.
 
-##### Classes I'm Taking Right Now  
+##### Classes I'm Taking  
 CSE 110, CSE 101, ECE 101  
+~~CSE 100, ECE 45, ECE 65~~
 
 ### Personal 
 I am 19 years old and from the Bay Area. 
@@ -28,6 +29,16 @@ Languages I've Worked With:
 - [ ] Scala
 
 ## Projects  
+
+**Twitter User Lookup & Trends**  
+Node webapp that utilizes Twitter API to display user information (including # of tweets/likes, mutual & nonmutual followers/ing, and more) as well as trends for any location.  
+
+**UCSD Course Planner**  
+A tool to research and plan courses and schedules in UCSD JSOE (Engineering majors), by scraping course data as well as major/degree requirements.
+
+_ECE 5 Class Project_
+Build an Arduino line-following robot.
+
 
 
 ## I'm on...  
