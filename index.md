@@ -10,7 +10,7 @@ CSE 110, CSE 101, ECE 101
 ~~CSE 100, ECE 45, ECE 65~~
 
 ### Personal 
-I am 19 years old and from the Bay Area. 
+I am 19 years old and from the Bay Area. You can find more about me (here)[https://aksharans.github.io/CSE110_Lab1/#more-about-me].
 
 ### Programming  
 
@@ -49,10 +49,14 @@ Build an Arduino line-following robot.
 ## More About Me
 [Hobbies](/Hobbies.md)
 
-
-
-
-
-
-
+Interests:
+1. Software
+  - Web/Mobile App Development
+  -  a
+2. Hardware
+  - Robotics
+  - Controllers/Processors
+3. Other
+  - Space Exploration
+  - Cognitive Science
 
