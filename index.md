@@ -4,8 +4,8 @@
 
 ### School  
 I am currently a 2nd year undergraduate studying ***Computer Engineering at UC San Diego***, in Warren College.  
-![alt-image](/assets/UCSD-1.jpeg)  
-image [here](/assets/UCSD-1.jpeg)
+![alt-image](/assets/UCSD.jpeg)  
+image [here](/assets/UCSD.jpeg)
 
 ##### Classes I'm Taking  
 CSE 110, CSE 101, ECE 101  
