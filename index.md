@@ -30,7 +30,7 @@ Languages I've Worked With:
 
 ## Projects  
 
-You can find more about these on my Github, which is (here)[]
+You can find more about these on my Github, which is (here)[https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#im-on]
 
 **Twitter User Lookup & Trends**  
 Node webapp that utilizes Twitter API to display user information (including # of tweets/likes, mutual & nonmutual followers/ing, and more) as well as trends for any location.  
