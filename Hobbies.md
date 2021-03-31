@@ -7,7 +7,10 @@ I like to play/watch most sports, especially football and basketball.
 My favorite genres are sci-fi, action/adventure, mystery, and epic/thriller.
 
 ## Video Games
-I like to play most video games.
+I like to play some video games.
 
 ## Reading
 Books are fun too.
+
+## YouTube
+No description necessary.
