@@ -36,7 +36,7 @@ Node webapp that utilizes Twitter API to display user information (including # o
 **UCSD Course Planner**  
 A tool to research and plan courses and schedules in UCSD JSOE (Engineering majors), by scraping course data as well as major/degree requirements.
 
-_ECE 5 Class Project_
+_ECE 5 Class Project_  
 Build an Arduino line-following robot.
 
 
