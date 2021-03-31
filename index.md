@@ -10,7 +10,7 @@ CSE 110, CSE 101, ECE 101
 ~~CSE 100, ECE 45, ECE 65~~
 
 ### Personal 
-I am 19 years old and from the Bay Area. You can find more about me (here)[https://aksharans.github.io/CSE110_Lab1/#more-about-me].
+I am 19 years old and from the Bay Area. You can find more about me (here)[https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#more-about-me].
 
 ### Programming  
 
