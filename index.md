@@ -67,6 +67,8 @@ Interests:
 Open a terminal and type `git clone https://github.com/aksharans/CSE110_Lab1.git`
 ##### If you want to create branches
 To create a branch and checkout simultaneously, type `git checkout -b <name-of-branch>`
+##### If you want to see all the images
+Click [here](/assets) for the assets folder.
 ##### If you want to delete the local repo 😳
 ~~`rm -rf .git`~~
 
