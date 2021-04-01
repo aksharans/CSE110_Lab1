@@ -12,7 +12,7 @@ CSE 110, CSE 101, ECE 101
 ~~CSE 100, ECE 45, ECE 65~~
 
 ### Personal 
-I am 19 years old and from the Bay Area. You can find more about me [here](https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#more-about-me).
+I am 19 years old and from the Bay Area. You can find more about me [here](https://aksharans.github.io/CSE110_Lab1/#more-about-me).
 
 ### Programming  
 
@@ -34,7 +34,7 @@ Languages I've Worked With:
 
 ## Projects  
 
-You can find more about these on my Github, which is [here](https://github.com/aksharans/CSE110_Lab1/blob/user-page/index.md#im-on).
+You can find more about these on my Github, which is [here](https://aksharans.github.io/CSE110_Lab1/#im-on).
 
 **Twitter User Lookup & Trends**  
 Node webapp that displays user info, trends, followers using the Twitter API.
