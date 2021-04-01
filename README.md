@@ -4,10 +4,10 @@
 
 ## Branches
 
-[main](): this branch
+[main](https://github.com/aksharans/CSE110_Lab1/tree/main): this branch
 
-[add-read-me](https://github.com/aksharans/CSE110_Lab1/blob/add-read-me/README.md): added readme file with name through github command line
+[add-read-me](https://github.com/aksharans/CSE110_Lab1/tree/add-read-me): added readme file with name through github command line
 
-[edit-read-me](): edited readme file w/ info about programming language through VSCode
+[edit-read-me](https://github.com/aksharans/CSE110_Lab1/tree/edit-read-me): edited readme file w/ info about programming language through VSCode
 
-[user-page](): created my User Page using Markdown and published as a github pages site
+[user-page](https://github.com/aksharans/CSE110_Lab1/tree/user-page): created my User Page using Markdown and published as a github pages site
